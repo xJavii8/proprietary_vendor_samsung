@@ -1,4 +1,4 @@
-add_lunch_combo pixys_hlte-userdebug
-add_lunch_combo pixys_hltetmo-userdebug
-add_lunch_combo pixys_hltechn-userdebug
-add_lunch_combo pixys_hltekor-userdebug
+add_lunch_combo liquid_hlte-userdebug
+add_lunch_combo liquid_hltetmo-userdebug
+add_lunch_combo liquid_hltechn-userdebug
+add_lunch_combo liquid_hltekor-userdebug
